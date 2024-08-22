@@ -1,0 +1,13 @@
+.count{
+    margin: 30px;
+    
+}
+.Counter{
+    height: 100vh;
+}
+.buttons{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

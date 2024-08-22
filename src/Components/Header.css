@@ -1,0 +1,21 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    background-color: #f0e2e2;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.list{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.list:hover{
+    cursor: pointer;
+}
