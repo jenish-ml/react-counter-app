@@ -1,6 +1,7 @@
 .count{
     margin: 30px;
-    
+    font-size: 100px;
+    font-weight: bold;
 }
 .Counter{
     height: 100vh;

@@ -17,7 +17,7 @@ function Counter() {
   return (
     <div className="Counter">
         <h1>Counter App</h1>
-        <p className="count">{count}</p>
+        <p className="count" >{count}</p>
         <div className="buttons">
         <button onClick={increment} className='fa fa-plus' aria-hidden="true" style={{fontSize: '50px', border: 'none', background: 'none'}}></button>
         <button onClick={decrement} className='fa fa-minus' aria-hidden="true" style={{fontSize: '50px', border: 'none', background: 'none'}}></button>
